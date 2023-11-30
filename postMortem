@@ -1,0 +1,11 @@
+PostMortem 
+
+1. Two things that went well was that the code and readme was unexpectedly easy to upload, and that the software automatically picks up local changes. I used to 
+work with git on linux, which was a little more complicated, but this is just about the same with windows. I would like to see if I can do the
+same with wsl soon. Another thing that went well was that I could find everything on the github main site with relative ease as well. 
+
+2. One thing that went poorly was that I lost the folder where I put the repository for a little bit, so that wasn't ideal but I found a
+quick fix to it by reorganizing my folder tree. 
+
+3. One cool thing is that my group started working on the project on github already, so everything from the wireframe and so on will be 
+documented on there. 
